@@ -20,7 +20,6 @@ This project focuses on analyzing operational data to identify trends, detect an
 |--------------------|-----------------------------------------|
 | **MySQL Workbench**| SQL querying, metric investigation      |
 | **SQL**            | Time-based aggregation, rolling metrics |
-| **Excel**          | Tabular reporting and visualization     |
 
 ---
 
