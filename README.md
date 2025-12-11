@@ -30,9 +30,9 @@ Case Study 1: Job Data Analysis
 | Task                   | Insight                                    |
 | ---------------------- | ------------------------------------------ |
 | Jobs Reviewed Per Hour | Peak on **Nov 28, 2020** with 218 jobs     |
-| Throughput (7-day avg) | Highest on Nov 28: **0.06**, Avg: **0.03** |
+| Throughput (7-day avg) | Consistent with minor fluctuations, Avg: **1.33** |
 | Language Share         | **Persian** accounted for 37.5% usage      |
-| Duplication Check      | No duplicate rows found in job data        |
+| Duplication Check      |2 duplicate rows found in job data        |
 
 --------
 
