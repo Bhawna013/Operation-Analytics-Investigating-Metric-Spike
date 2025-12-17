@@ -40,8 +40,8 @@ Case Study 2: Investigating Metric Spikes
 
 | Task                    | Insight                                                     |
 | ----------------------- | ----------------------------------------------------------- |
-| Weekly User Engagement  | Peaked in **Week 31**, declined afterward                   |
-| User Growth             | Showed instability post Week 31                             |
+| Weekly User Engagement  | Peaked in **Week 25**, declined afterward                   |
+| User Growth             | Acquisition is event driven                                 |
 | Device-Based Engagement | Dominated by **MacBook** and **iPhone** users               |
 | Email Analysis          | Open Rate: **34%**, Click Rate: **15%** — Strong engagement |
 
